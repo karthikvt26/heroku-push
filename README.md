@@ -1,3 +1,4 @@
-# Hasura GraphQL Engine on Heroku
+# Deprecated
+Moved to: https://github.com/hasura/graphql-engine-heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+----------------------------------
